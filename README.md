@@ -4,5 +4,5 @@ my practicing
   my page
   </head>
 <body>
-<a href="wxpn.org">link</a>
+<a href="xpn.org">link</a>
   </body>
