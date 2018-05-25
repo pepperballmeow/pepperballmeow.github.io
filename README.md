@@ -2,5 +2,5 @@
 
 <body>
   I like animals.  Bamboo is furry.</br>
-<a href="http://xpn.org">link</a>
+<a href="http://pepperballmeow.github.io/first_page">link 2</a>
   </body>
